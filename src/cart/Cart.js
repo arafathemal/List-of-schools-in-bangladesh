@@ -12,6 +12,7 @@ const Cart = (props) => {
             <h4>Show details</h4>
             <p><span className="text-color">Add School: </span>{props.cart.length}</p>
             <p><span className="text-color">Total-budget:</span> {total}</p>
+            <button className="btn btn-primary">more</button>
 
         </div>
     );
