@@ -1,0 +1,167 @@
+[
+    {
+      "id": 1,
+      "budget":231000000,
+      "name": "Stride International School",
+      "location": "Uttara sector 7, Road 27, house 16",
+      "medium": "English Medium/Bangla Medium/English Version",
+      "established": 1989,
+      "levels": "From Play group to Class-3",
+      "period": "June–July, December–January",
+      "img": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c2Nob29sfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+      "id": 2,
+      "budget":381000000,
+      "name": "New Ananda English School",
+      "location": "Nakhalpara, Tejgaon, Dhaka-1215",
+      "medium": "English Medium/Bangla Medium/English Version",
+      "established": 1999,
+      "levels": "From Play group to Class-3",
+      "period": "June–July, December–January",
+      "img": "https://media.gettyimages.com/photos/red-brick-high-school-building-exterior-picture-id171306436?s=612x612"
+    },
+    {
+      "id": 3,
+      "budget":551000000,
+      "name": "International School Dhaka",
+      "location": "Plot-80, Road-9, Block-E, Dhaka-1229",
+      "medium": "Syllabus Ib",
+      "established": 1997,
+      "levels": "From Nursery to Diploma",
+      "period": "No period",
+      "img": "https://media.istockphoto.com/photos/back-view-of-elementary-students-raising-their-arms-on-a-class-picture-id1000887536?k=20&m=1000887536&s=612x612&w=0&h=79B-yK_-GFRauGUW-Hc4LbxHT0KOzxK5PU2fEA5JT0I="
+    },
+    {
+      "id": 4,
+      "budget":331000000,
+      "name": "Dhanmondi Tutorial",
+      "location": "House # 8, Road # 14, Dhanmondi, Dhaka 1205",
+      "medium": "\tSyllabus Gce (Edexcel)",
+      "established": 1972,
+      "levels": "Play Group to Class XII (A Level)",
+      "period": "January–December",
+      "img": "https://media.istockphoto.com/photos/primary-school-kids-run-holding-hands-in-corridor-close-up-picture-id1031384160?k=20&m=1031384160&s=612x612&w=0&h=zIzJ6EQ-pY3IcZLRb3Rk4VXXLrIZKAmRJIysIHpr_Qw="
+    },
+    {
+      "id": 5,
+      "budget":133000000,
+      "name": "Greenherald International Schools",
+      "location": "24 Asad Avenue, Mohammadpur, Dhaka-1207",
+      "medium": "Syllabus English Medium School",
+      "established": 1972,
+      "levels": "Kindergarten 1 to A Level",
+      "period": "\tJuly",
+      "img": "https://www.ipschoolmp.com/images/school.jpg"
+    },
+    {
+      "id": 6,
+      "budget":135000000,
+      "name": "Don Bosco School and College",
+      "location": "Road No# 13, House # 22, Sector # 4, Uttara, Dhaka-1230",
+      "medium": "Syllabus English Medium",
+      "established": 1985,
+      "levels": "From Playgroup to A Levels",
+      "period": "Null",
+      "img": "https://www.unicef.org/cambodia/sites/unicef.org.cambodia/files/styles/hero_mobile/public/123.jpg?itok=Vms2eU3V"
+    },
+    {
+      "id": 7,
+      "budget":61000000,
+      "name": "Prime Bank English Medium School",
+      "location": "Uttara branch: House-11, Road-20/C, Sector-4, Uttara, Dhaka-1230",
+      "medium": "English level",
+      "established": 2008,
+      "levels": "Playgroup to A level",
+      "period": "June–July",
+      "img": "https://achieve.lausd.net//cms/lib/CA01000043/Centricity/Domain/4/announcements%20new%20size_backtoschool.png"
+    },
+    {
+      "id": 8,
+      "budget":51000000,
+      "name": "Stride International School",
+      "location": "Mymensingh",
+      "medium": "NCTB-English",
+      "established": 2019,
+      "levels": "Nursery to Class 5",
+      "period": "May to July and October to January",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrQh0Cf0j_vVQCi2OWpGokCgU7xNovRrptkA&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "budget":31000000,
+      "name": "B A F Shaheen College Kurmitola",
+      "location": "Dhaka Cantonment, Dhaka - 1206",
+      "medium": "\tNCTB Bengali and English version",
+      "established": 1972,
+      "levels": "KG to VII",
+      "period": "Null",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTodLf1TXRu0pbNuRDivtN9t46MPa1AKn3pBw&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "budget":13000000,
+      "name": "Shaheed Ramiz Uddin Cantonment School",
+      "location": "Adjacent to Dhaka Cantonment MES Flyover",
+      "medium": "Dhaka Education Board",
+      "established": 1939,
+      "levels": "Playgroup to SSC",
+      "period": "December–January",
+      "img": "https://image.shutterstock.com/image-vector/classical-school-building-bus-isolated-260nw-306667898.jpg"
+    },
+    {
+      "id": 11,
+      "budget":180400000,
+      "name": "Creative International School",
+      "location": "Sonir Akhra, Demra, Dhaka-1361",
+      "medium": "Bangla Medium",
+      "established": 2008,
+      "levels": "Playgroup to Class 8",
+      "period": "June–July, December–January",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kallaveden_lukio.jpg/220px-Kallaveden_lukio.jpg"
+    },
+    {
+      "id": 12,
+      "budget":60400000,
+      "name": "Kids Tutorial",
+      "location": "7/A Circuit House Rd, Ramna, Shantinagar, Dhaka- 1000",
+      "medium": "Edexcel syllabus",
+      "established": 1987,
+      "levels": "Playgroup to O level",
+      "period": "June–July, November–December",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJMm36foRTC-vsy4ErI8RPNP68NuOdBDQgj9BQgq3bS0QA4Ul2XHTUaxIx5sL2c0PNE8&usqp=CAU"
+    },
+    {
+      "id": 13,
+      "budget":102200000,
+      "name": "Green Bud School",
+      "location": "63/2 Purana Paltan Line, Dhaka- 1000",
+      "medium": "NCTB syllabus",
+      "established": 2001,
+      "levels": "Playgroup to Class 5",
+      "period": "December–January",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRki4B28POv5XYaXRE0SaFz3WunB7lcoT6u1eLaXE3fPM7o0BlJj4yyR_89-BI6o9N4Czc&usqp=CAU"
+    },
+    {
+      "id": 14,
+      "budget":50006000,
+      "name": "Tarundia Jagat Memorial High School",
+      "location": "Tarundia, Ishwarganj, Mymensingh",
+      "medium": "NCTB-Bengali",
+      "established": 1989,
+      "levels": "Preschool to secondary",
+      "period": "January to December",
+      "img": "https://c8.alamy.com/comp/M52B38/a-group-of-children-are-seen-standing-outside-their-classrooms-at-M52B38.jpg"
+    },
+    {
+      "id": 15,
+      "budget":1056000,
+      "name": "Mirpur International Tutorial",
+      "location": "Mirpur-2, Road# 2, House #16, sec#2",
+      "medium": "English Medium International School.",
+      "established": 2003,
+      "levels": "Playgroup to Class 8",
+      "period": "July–June, January–December",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxRz-_eBYzHdjHAL6JENP9fiJl08R4QkOurr3CqZXTrvJbFDpzUqoE45Oyl7KkyNpuKF8&usqp=CAU"
+    }
+  ]
