@@ -9,8 +9,8 @@ const ShowData = (props) => {
     const icon = <FontAwesomeIcon icon={faAd} />
     return (
         <div className="col-md-4">
-            <div class="card" style={{ "width": "18rem;" }}>
-                <img src={img} class="card-img-top img img-fluid" alt="..." />
+            <div class="card  set-bg-color" style={{ "width": "18rem;" }}>
+                <img src={img} class="card-img-top img" alt="..." />
                 <div class="card-body">
                     <h4 class="card-title"><b>Name:</b> {name}</h4>
                     <p class="card-text"><b>Location:</b> {location}</p>
@@ -21,7 +21,7 @@ const ShowData = (props) => {
                     <h6 class="card-text"><b className="color">Budget:</b> {budget}</h6>
                     <button
                         onClick={() => props.handleAddToData(props.data)}
-                        className="btn btn-primary"> {icon} Added</button>
+                        className="btn btn-primary"> {icon}   Added</button>
                 </div>
             </div>
         </div>

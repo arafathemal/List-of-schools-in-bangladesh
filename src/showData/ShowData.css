@@ -4,3 +4,13 @@
 .text-color{
     color: teal;
 }
+.set-bg-color{
+    background-color:rgb(148, 219, 148);
+    height: 650px;
+    width: 320px;
+    margin-top: 15px;
+}
+.img{
+    height:200px;
+    
+}
