@@ -1,16 +1,16 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faAd} from '@fortawesome/free-solid-svg-icons';
+import { faAd } from '@fortawesome/free-solid-svg-icons';
 import './ShowData.css';
 
 const ShowData = (props) => {
     // console.log(props)
-    const { name,budget, location, medium, img, levels, established, period } = props.data || {};
+    const { name, budget, location, medium, img, levels, established, period } = props.data || {};
     const icon = <FontAwesomeIcon icon={faAd} />
     return (
         <div className="col-md-4">
             <div class="card" style={{ "width": "18rem;" }}>
-                <img src={img} class="card-img-top" alt="..." />
+                <img src={img} class="card-img-top img img-fluid" alt="..." />
                 <div class="card-body">
                     <h4 class="card-title"><b>Name:</b> {name}</h4>
                     <p class="card-text"><b>Location:</b> {location}</p>
